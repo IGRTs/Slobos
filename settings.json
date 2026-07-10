@@ -6,7 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "fossadoamor.aternos.me",
+    "ip": "halibut.aternos.host",
+    "port": 11006,
     "version": "",
     "try-creative": false
   },
