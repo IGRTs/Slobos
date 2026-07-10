@@ -1,14 +1,14 @@
 {
   "name": "Fossete",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Fossete",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "halibut.aternos.host",
+    "ip": "fossadoamor.aternos.me",
     "port": 11006,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
