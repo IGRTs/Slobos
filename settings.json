@@ -7,7 +7,6 @@
   },
   "server": {
     "ip": "fossadoamor.aternos.me",
-    "port": 11006,
     "version": "",
     "try-creative": false
   },
